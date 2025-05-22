@@ -4,7 +4,6 @@ import { IoTimeOutline } from "react-icons/io5";
 
 const Recipes = ({ recipe ,handdleBookmark}) => {
     const {
-        recipe_id,
         recipe_name,
         short_description,
         recipe_image,
@@ -31,7 +30,7 @@ const Recipes = ({ recipe ,handdleBookmark}) => {
                     <p  className="flex gap-5 text-[#282828]/80 font-normal text-base fira-sans"><IoTimeOutline  className="text-lg "/><span>  {preparing_time} minutes</span></p>
                     <p  className="flex gap-5 text-[#282828]/80 font-normal text-base fira-sans"><AiOutlineFire  className="text-lg"/> <span>  {calories} calories</span></p>
                 </div>
-                <button onClick={()=>handdleBookmark(recipe_id)}  className="bg-[#0BE58A] text-[#150B2B] px-6 py-3 rounded-3xl">Want to Cook</button>
+                <button onClick={()=>handdleBookmark(recipe)}  className="bg-[#0BE58A] text-[#150B2B] px-6 py-3 rounded-3xl hover:scale-105  active:scale-95 transition-transform duration-150">Want to Cook</button>
             </div>
                 
         </div>
