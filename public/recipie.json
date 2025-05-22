@@ -1,0 +1,57 @@
+[
+  {
+    "recipe_id": "001",
+    "recipe_name": "Spicy Basil Chicken",
+    "short_description": "A flavorful Thai dish with chicken and basil.",
+    "recipe_image": "https://images.pexels.com/photos/1111315/pexels-photo-1111315.jpeg",
+    "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_id": "002",
+    "recipe_name": "Creamy Mushroom Pasta",
+    "short_description": "A creamy and savory mushroom pasta dish.",
+    "recipe_image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "ingredients": ["250 g pasta", "200 g mushroom", "100 ml cream", "2 garlic cloves"],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_id": "003",
+    "recipe_name": "Grilled Lemon Salmon",
+    "short_description": "Fresh salmon fillets grilled with lemon and herbs.",
+    "recipe_image": "https://images.pexels.com/photos/3296273/pexels-photo-3296273.jpeg",
+    "ingredients": ["400 g salmon", "1 lemon", "2 tbsp olive oil", "1 tsp rosemary"],
+    "preparing_time": 20,
+    "calories": 380
+  },
+  {
+    "recipe_id": "004",
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "Colorful veggies stir-fried in soy sauce.",
+    "recipe_image": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg",
+    "ingredients": ["150 g broccoli", "100 g bell pepper", "50 g carrot", "2 tbsp soy sauce"],
+    "preparing_time": 15,
+    "calories": 220
+  },
+  {
+    "recipe_id": "005",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Classic Mexican tacos with spiced beef filling.",
+    "recipe_image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "ingredients": ["300 g ground beef", "6 taco shells", "1 onion", "50 g cheddar cheese"],
+    "preparing_time": 25,
+    "calories": 500
+  },
+  {
+    "recipe_id": "006",
+    "recipe_name": "Chicken Caesar Salad",
+    "short_description": "Crispy lettuce topped with grilled chicken and Caesar dressing.",
+    "recipe_image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+    "ingredients": ["200 g chicken breast", "100 g romaine lettuce", "30 g parmesan cheese", "2 tbsp Caesar dressing"],
+    "preparing_time": 15,
+    "calories": 350
+  }
+  
+]

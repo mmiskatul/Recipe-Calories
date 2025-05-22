@@ -4,7 +4,7 @@ import { CiSearch } from 'react-icons/ci';
 
 const NavBar = () => {
     return (
-        <nav className='flex justify-between px-20 py-5 bg-gray-100 items-center'> 
+        <nav className='flex justify-between px-20 py-5  items-center'> 
             {/* navTitle */}
             <div>
             <h1 className='font-normal text-[#150B2B] text-3xl px-6 py-3 rounded-xl hover:bg-gray-200 hover:cursor-pointer'>Recipe Calories</h1>
